@@ -51,11 +51,11 @@ At BuurtHub, we aim to foster stronger, more connected communities by providing 
   
 ### What you need to run this application
 
-### For the Backend :
+### For the Frontend :
 
 - Install NodeJs
 - Install cloudinary
--Install Express
+- Install Express
 - MongoDB or MongoDB Atlas
 - Install VS Code
   
@@ -64,7 +64,7 @@ At BuurtHub, we aim to foster stronger, more connected communities by providing 
 - Install Ironlauncher for Frontend
 - Install Supabase for Authentication in the Frontend
 - Make sure MongoDB is running on your system or cloud.
-- Clone this repository
+- Clone this repository using git clone https://github.com/Tetsewa/BuurtHub-frontend.git
 - Open command line in the cloned folder,
 - To install dependencies for frontend , run npm install in /client folder.
 - To run frontend type command npm run dev in /client folder.
